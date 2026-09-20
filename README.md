@@ -2,7 +2,7 @@
 WinGet app installation sets for diffrent type of users.
 
 ```text
-winget-bulk-installs/
+winget-sets/
 ├── README.md
 ├── sets/
 │   ├── 01-developer.ps1
