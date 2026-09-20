@@ -1,0 +1,1 @@
+winget install -e --id Bitwarden.Bitwarden Proton.ProtonVPN KeePassXCTeam.KeePassXC Mozilla.Firefox 7zip.7zip --accept-package-agreements --accept-source-agreements
