@@ -1,0 +1,1 @@
+winget install -e --id Notion.Notion Obsidian.Obsidian Microsoft.PowerToys voidtools.Everything 7zip.7zip Notepad++.Notepad++ Mozilla.Firefox Google.Chrome --accept-package-agreements --accept-source-agreements
