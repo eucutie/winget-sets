@@ -1,0 +1,1 @@
+winget install -e --id Python.Python.3.12 Git.Git OpenJS.NodeJS.LTS Microsoft.WindowsTerminal 7zip.7zip Notepad++.Notepad++ voidtools.Everything Mozilla.Firefox Google.Chrome --accept-package-agreements --accept-source-agreements
