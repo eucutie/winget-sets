@@ -1,0 +1,1 @@
+winget install -e --id Microsoft.PowerToys Microsoft.Sysinternals voidtools.Everything 7zip.7zip Notepad++.Notepad++ Microsoft.WindowsTerminal --accept-package-agreements --accept-source-agreements
