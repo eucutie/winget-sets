@@ -1,0 +1,1 @@
+winget install -e --id Valve.Steam Discord.Discord EpicGames.EpicGamesLauncher Microsoft.PowerToys 7zip.7zip --accept-package-agreements --accept-source-agreements
