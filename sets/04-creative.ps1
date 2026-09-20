@@ -1,0 +1,1 @@
+winget install -e --id OBSProject.OBSStudio GIMP.GIMP Audacity.Audacity BlenderFoundation.Blender Krita.Krita 7zip.7zip --accept-package-agreements --accept-source-agreements
