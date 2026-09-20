@@ -1,5 +1,8 @@
-# winget-sets
-WinGet app installation sets for diffrent type of users.
+# Winget Bulk Installs
+
+Simple one-command PowerShell scripts to install useful apps for different use cases using Winget.
+
+## Project structure
 
 ```text
 winget-sets/
@@ -14,4 +17,3 @@ winget-sets/
 │   ├── 07-pentester.ps1
 │   ├── 08-ethical-hacker.ps1
 │   └── 09-osint.ps1
-```
