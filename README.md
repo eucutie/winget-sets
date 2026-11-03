@@ -17,3 +17,9 @@ winget-sets/
 │   ├── 07-pentester.ps1
 │   ├── 08-ethical-hacker.ps1
 │   └── 09-osint.ps1
+
+## Website
+
+Browse the searchable collection library: https://eucutie.github.io/winget-sets/
+
+The site displays the package IDs in each script and provides links to inspect or download the original `.ps1` files. Review scripts before running them.
