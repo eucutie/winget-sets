@@ -1,1 +1,8 @@
-winget install -e --id Insecure.Nmap WiresharkFoundation.Wireshark ZAP.ZAP Git.Git Python.Python.3.12 Microsoft.WindowsTerminal 7zip.7zip voidtools.Everything --accept-package-agreements --accept-source-agreements
+winget install --exact --id Insecure.Nmap --accept-package-agreements --accept-source-agreements
+winget install --exact --id WiresharkFoundation.Wireshark --accept-package-agreements --accept-source-agreements
+winget install --exact --id ZAP.ZAP --accept-package-agreements --accept-source-agreements
+winget install --exact --id Git.Git --accept-package-agreements --accept-source-agreements
+winget install --exact --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements
+winget install --exact --id Microsoft.WindowsTerminal --accept-package-agreements --accept-source-agreements
+winget install --exact --id 7zip.7zip --accept-package-agreements --accept-source-agreements
+winget install --exact --id voidtools.Everything --accept-package-agreements --accept-source-agreements
