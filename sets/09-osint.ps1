@@ -1,1 +1,9 @@
-winget install -e --id Python.Python.3.12 Git.Git OpenJS.NodeJS.LTS Microsoft.WindowsTerminal 7zip.7zip Notepad++.Notepad++ voidtools.Everything Mozilla.Firefox Google.Chrome --accept-package-agreements --accept-source-agreements
+winget install --exact --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements
+winget install --exact --id Git.Git --accept-package-agreements --accept-source-agreements
+winget install --exact --id OpenJS.NodeJS.LTS --accept-package-agreements --accept-source-agreements
+winget install --exact --id Microsoft.WindowsTerminal --accept-package-agreements --accept-source-agreements
+winget install --exact --id 7zip.7zip --accept-package-agreements --accept-source-agreements
+winget install --exact --id Notepad++.Notepad++ --accept-package-agreements --accept-source-agreements
+winget install --exact --id voidtools.Everything --accept-package-agreements --accept-source-agreements
+winget install --exact --id Mozilla.Firefox --accept-package-agreements --accept-source-agreements
+winget install --exact --id Google.Chrome --accept-package-agreements --accept-source-agreements
