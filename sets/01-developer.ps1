@@ -1,1 +1,9 @@
-winget install -e --id Microsoft.VisualStudioCode Git.Git OpenJS.NodeJS.LTS Python.Python.3.12 Docker.DockerDesktop Microsoft.WindowsTerminal Microsoft.PowerToys 7zip.7zip Notepad++.Notepad++ --accept-package-agreements --accept-source-agreements
+winget install --exact --id Microsoft.VisualStudioCode --accept-package-agreements --accept-source-agreements
+winget install --exact --id Git.Git --accept-package-agreements --accept-source-agreements
+winget install --exact --id OpenJS.NodeJS.LTS --accept-package-agreements --accept-source-agreements
+winget install --exact --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements
+winget install --exact --id Docker.DockerDesktop --accept-package-agreements --accept-source-agreements
+winget install --exact --id Microsoft.WindowsTerminal --accept-package-agreements --accept-source-agreements
+winget install --exact --id Microsoft.PowerToys --accept-package-agreements --accept-source-agreements
+winget install --exact --id 7zip.7zip --accept-package-agreements --accept-source-agreements
+winget install --exact --id Notepad++.Notepad++ --accept-package-agreements --accept-source-agreements
